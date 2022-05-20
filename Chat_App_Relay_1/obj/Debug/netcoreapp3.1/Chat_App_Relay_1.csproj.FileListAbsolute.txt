@@ -1,0 +1,14 @@
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.exe
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.deps.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.runtimeconfig.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.runtimeconfig.dev.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\bin\Debug\netcoreapp3.1\Chat_App_Relay_1.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.csproj.AssemblyReference.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.AssemblyInfoInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.AssemblyInfo.cs
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.csproj.CoreCompileInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_1\obj\Debug\netcoreapp3.1\Chat_App_Relay_1.genruntimeconfig.cache

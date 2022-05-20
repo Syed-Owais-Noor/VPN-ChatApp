@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chat_App_Relay_1/1.0.0": {
+        "runtime": {
+          "Chat_App_Relay_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chat_App_Relay_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
