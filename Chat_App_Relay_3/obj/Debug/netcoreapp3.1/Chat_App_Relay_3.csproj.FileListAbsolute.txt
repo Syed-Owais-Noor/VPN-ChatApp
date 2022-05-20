@@ -1,0 +1,14 @@
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.exe
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.deps.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.runtimeconfig.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.runtimeconfig.dev.json
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\bin\Debug\netcoreapp3.1\Chat_App_Relay_3.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.GeneratedMSBuildEditorConfig.editorconfig
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.AssemblyInfoInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.AssemblyInfo.cs
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.csproj.CoreCompileInputs.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.dll
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.pdb
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.genruntimeconfig.cache
+G:\PAF KIET\Fourth Year\Spring 2022\Network Programming (NP)\Project\Chat_App\Chat_App_Relay_3\obj\Debug\netcoreapp3.1\Chat_App_Relay_3.csproj.AssemblyReference.cache
